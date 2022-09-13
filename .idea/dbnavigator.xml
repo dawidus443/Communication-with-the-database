@@ -30,6 +30,7 @@
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="4a1eeb1d-7f1e-4a3f-9e0f-10920677195f">
       <console name="student" type="STANDARD" schema="information_schema" session="Main" />
+      <console name="student@localhost" type="STANDARD" schema="information_schema" session="Main" />
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
